@@ -1,0 +1,53 @@
+h1{
+	color:grey;
+	font-size:50px;
+	text-align:center;
+	font-family:cursive;
+}
+h2{
+	color:grey;
+	text-align:center;
+	font-size:40px;
+	font-family:cursive;
+}
+h3{
+	color:grey;
+	text-align:center;
+	font-size:25px;
+	font-family:cursive;
+}
+body{
+	background-color:#F8DAF8;
+}
+p{
+	color:grey;
+	font-family:cursive;
+	text-align:center;
+}
+img{
+	width:250px;
+}
+a{
+	color:grey;
+	font-size:20px;
+}
+.img1{
+	border:dashed;
+	border-color:grey;
+	border-width:10px;
+}
+.img2{
+	border:dashed;
+	border-color:pink;
+	border-width:10px;
+}
+.img3{
+	border:dashed;
+	border-color:blue;
+	border-width:10px;
+}
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	background-color: #F8F7DA;
+}
