@@ -1,0 +1,18 @@
+h1	{
+	color:maroon;
+	text-decoration: underline;
+}
+body{
+	background-color:lightgrey;
+	font-family:sans-serif;
+}
+
+li{
+	font-size:18px;
+}
+.li1{
+	color:teal;
+}
+.bfont{
+	font-size:25px;
+}

@@ -1,0 +1,43 @@
+p	{
+	color:white;
+}
+h1	{
+	color:white;
+	font-size: 40px;
+	border: white;
+	border:4px black;
+}
+body{
+	background-color:#0B424D;
+	font-size:22px;
+}
+title{
+	color:white;
+}
+h2	{
+	font-size:32px;
+	color:#BDC3C7;
+}
+h3{
+	font-size:28px;
+	color:#ECF0F1;
+}
+li{
+	color:red;
+}
+.h1{
+	text-align: center;
+}
+.p2{
+	text-align: center;
+}
+.h2{
+	color:#BDC3C7;
+	text-align: center;
+}
+h4{
+	color:white;
+}
+.p3{
+	background-color:#16839A;
+}

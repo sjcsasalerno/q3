@@ -1,0 +1,36 @@
+p {
+	color: maroon;
+	font-family:sans-serif;
+}
+li	{
+	color:#A58B95  ;
+	font-family:sans-serif;
+	border:5px pink dashed;
+	padding:10px;
+	margin: 30px;
+}
+img	{
+	width:300px;
+	border:4px;
+	border-color:#4D69CD;
+	border-style:solid;
+}
+a{
+	color:maroon;
+	font-family: all;
+}
+li{
+	font-size:25px;
+}
+body{
+ 	background-color: #D5EDF6;
+}
+
+.wrapper{
+	width:40%;
+	margin:0 auto;
+	background-color: white;
+}
+footer{
+	text-align: center;
+}
