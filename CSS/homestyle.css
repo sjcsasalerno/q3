@@ -15,11 +15,9 @@ h3{
 	text-align:center;
 	font-size:25px;
 	font-family:cursive;
-	background-color: pink;
-	border:2px grey dashed;
 }
 body{
-	background-color:#F2D3EE;
+	background-color:#F8DAF8;
 }
 p{
 	color:grey;
@@ -32,19 +30,6 @@ img{
 a{
 	color:grey;
 	font-size:20px;
-	display: block;
-	text-align: center;
-	background-color: pink;
-	border:2px grey dashed;
-	padding:5px;
-	margin:7px;
-}
-h4{
-	color:grey;
-	font-size: 30px;
-	text-align: center;
-	background-color: pink;
-	border:4px  grey dashed;
 }
 a:link{
 	color:red;
@@ -74,11 +59,7 @@ a:active{
 	border-width:10px;
 }
 .wrapper{
-	width: 80%;
+	width: 60%;
 	margin: 0 auto;
-	background-color: #CDE6E0;
-}
-footer{
-	color:grey;
-	text-align: center;
+	background-color: #F8F7DA;
 }

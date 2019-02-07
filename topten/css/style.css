@@ -15,6 +15,7 @@ img	{
 a{
 	color:maroon;
 	font-family: all;
+
 }
 li{
 	font-size:25px;
@@ -22,4 +23,6 @@ li{
 body{
  	background-color: #D5EDF6;
 }
-
+.a1{
+	color:pink;
+}
