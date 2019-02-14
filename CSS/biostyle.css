@@ -55,3 +55,16 @@ img{
 	margin:0 auto;
 	background color:#EADFDF;
 }
+h4{
+	color:pink;
+	border:2px dashed pink;
+	display:inline;
+	font-size: 30px;
+}
+a{
+	border: 2px black solid;
+	padding:5px;
+	margin:5px;
+	background-color: pink;
+	display: inline;
+}

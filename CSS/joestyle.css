@@ -1,0 +1,46 @@
+body{
+	font-size: 20px;
+}
+h1{
+	font-size:60px;
+	text-align: center;
+}
+h2{
+	font-size: 40px;
+	margin-left: 10px;
+}
+h3{
+	font-size: 30px;
+	font-style: italic;
+}
+.floatl{
+	float:left;
+}
+img{
+	border:5px black solid;
+	margin:10px;
+	width:300px;
+}
+.cleared{
+	display: flow-root;
+}
+section{
+    background-color: #aa0000;
+    padding:10px;
+    margin-bottom: 10px;
+}
+.wrapper{
+	width:80%;
+	margin:0 auto;
+	border:5px black solid;
+	padding:10px;
+	background-color: #b3995d;
+}
+footer{
+	background-color: #aa0000;
+	text-align: center;
+	color:white;
+}
+.float2{
+	float:right;
+}
