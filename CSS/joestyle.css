@@ -13,7 +13,7 @@ h3{
 	font-size: 30px;
 	font-style: italic;
 }
-.floatl{
+.float1{
 	float:left;
 }
 img{
@@ -40,7 +40,18 @@ footer{
 	background-color: #aa0000;
 	text-align: center;
 	color:white;
+	width:80%;
+	margin:0 auto;
+	padding:15px;
 }
 .float2{
 	float:right;
+}
+.colr{
+	float:right;
+	width:45%;
+}
+.coll{
+	float:left;
+	width:45%;
 }
