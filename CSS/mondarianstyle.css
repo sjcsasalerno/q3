@@ -1,0 +1,113 @@
+body{
+    background-color: #f6f6f6;
+}
+html{
+	background-color: #f6f6f6;
+}
+#painting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow {
+    height: 290px;
+}
+#bigbox {
+    width: 290px;
+    height: 290px;
+}
+.red{
+	background-color: #cc3333;
+}
+.blue {
+    background-color: blue; 
+}
+.yellow {
+    background-color: yellow;   
+}
+.right{
+	float:right;
+}
+#divider1{
+	height: 290px;
+	width: 10px;
+}
+#topleftcolumn{
+	height:290px;
+}
+.black{
+	background-color: black;
+}
+.mediumbox{
+	width: 100px;
+	height: 140px;
+}
+#divider2{
+	height: 10px;
+	width: 100px;
+}
+#middlerow{
+	height:10px;
+	width: 400px;
+}
+#leftbox{
+	width: 100px;
+	height: 100px;
+}
+.left{
+	float:left;
+}
+.blue{
+	background-color:blue;
+}
+h7{
+	color:pink;
+	border:2px dashed pink;
+	display:inline;
+	font-size: 30px;
+}
+a{
+	border: 2px black solid;
+	padding:5px;
+	margin:5px;
+	background-color: pink;
+	display: inline;
+} 
+#divider4{
+	height:10px;
+	width:20px;
+}
+#littlebox{
+	height:45px;
+	width:20px;
+}
+.yellow{
+	background-color:yellow;
+}
+#bottomrightcolumn{
+	height:100px;
+	width:10px;
+}
+#bottomrow{
+	height:100px;
+}
+#leftbox{
+	height:100px;
+	width:100px;
+}
+#bottomleftcolumn{
+	height:100px;
+	width:10px;
+}
+#divider5{
+	height:100px;
+	width:10px;
+}
+#rightbox{
+	height:100px;
+	width:260px;
+}
